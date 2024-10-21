@@ -5,9 +5,7 @@ How to Run the Script
 
     Install Scapy: Make sure you have Scapy installed. You can do this via pip:
 
-    bash
-
-pip install scapy
+    bash: pip install scapy
 
 Run the Script: Execute the script from the command line. Here’s an example command:
 
