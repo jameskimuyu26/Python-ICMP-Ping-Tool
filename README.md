@@ -1,5 +1,5 @@
 # Python-Based-ICMP-Ping-Tool
-ICMP(Internet Contro Message Protocol) requests are used to identify and verify devices in a network. The tool is coded in python and it is useful for network admins and security profesionals-used to identify reachability of devices by sending echo request messages. The guide will help you create higly scaling network networking and pentesting tools and applcations in the future.  
+ICMP(Internet Contro Message Protocol) requests are used to identify and verify devices in a network. The tool is coded in Python and it is useful for network admins and security professionals used to identify the reachability of devices by sending echo request messages. The guide will help you create highly scaling network networking and pentesting tools and applications in the future.  
 
 How to Run the Script
 
@@ -21,6 +21,4 @@ Summary
     Command-Line Arguments: Users can customize parameters directly from the terminal.
     Practical Use: This tool is useful for network diagnostics and testing device availability.
 
-Feel free to adjust or expand the functionality based on your needs guys!
-
-Credits!!!! Deniz Alil
+Feel free to adjust or expand the functionality based on your needs.
